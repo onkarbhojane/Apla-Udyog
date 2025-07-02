@@ -14,7 +14,7 @@ Apla-Udyog/
 
 **Tech Stack**:
 - React Native (Expo)
-- TypeScript
+- JavaScript
 - Tailwind CSS (via NativeWind)
 - Reusable components: Home, MarketRates, LatestNews, Profile
 
